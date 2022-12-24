@@ -1,5 +1,7 @@
 # LearningJAVA
-In this repo I am uploading java code what I am learning. If you want to add any code or suggestions to my code. Just feel free to fork this repository.
+- In this repo I am uploading java code what I am learning. If you want to add any code or suggestions to my code. Just feel free to fork this repository.
+- All the code files are stored in src folder.
+- You can just simply put this repository to your IntelliJ and directly run all the code files.
 
 ## Let's Talk about Java...
 - Java is highly used in banks and Enterprise applications, Java's capability to compile one and run anywhere makes it very useful.
