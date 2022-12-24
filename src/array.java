@@ -4,7 +4,7 @@ public class array {
         int x[] = {1,2,3,4,5};
         System.out.println(x);/*The array is one of the data structures that stores similar data types of values in a continuous manner in RAM. Here in the above example, we have created an array “x” which stores five integer values in a continuous manner inside RAM. But when we print the “x” with help of the System.out function, we get some physical address. Hence, here our array variable “x” is storing the address of the first element of the array.*/
                               /*As we know in JAVA we can’t interact with the hardware directly, we have JVM in between so here the address will show in output when you run this code in your computer is not the real physical address of RAM, It is the virtual address provided by JVM, but in reality, JVM knows the real physical address of the first element of the array. Hence, JVM manages pointers in JAVA, but we as developers can’t manage pointers because we don’t know the real physical address of our variables.*/
-        System.out.println(x[3]);//by giving index no we can access the data in the array.
+        System.out.println(x[3]);//by giving index no. we can access the data in the array.
 
 
 
